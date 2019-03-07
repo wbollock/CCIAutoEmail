@@ -1,8 +1,11 @@
 #!/bin/bash
 #CCI Automatic Email Program
+#********************************************************************
+# Written by Will Bollock
 #This program will send an email via ssmtp from the config setup at 
 # /etc/ssmtp/ssmtp.conf
 #then, it uses "at" to send a reminder email X days later
+#********************************************************************
 
 
 
