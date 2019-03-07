@@ -19,7 +19,7 @@ No other setup required
 ### Config file for ssmtp sendmail
 
 
-root=wbollockdev@gmail.com
+root=YourEmailHere
 
 mailhub=smtp.gmail.com:465
 
