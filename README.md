@@ -1,6 +1,10 @@
 # CCIAutoEmail
 Repo for a CCI HelpDesk auto email program. 
 
+This program will send an email via ssmtp from the config setup at /etc/ssmtp/ssmtp.conf.
+
+Then, it uses "at" to send a reminder email X days later
+
 Prequisites: at, ssmtp
 
 ## SSMTP setup
